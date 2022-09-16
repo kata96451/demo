@@ -1,10 +1,10 @@
 {
   "books": [
-    { "id": "1", "title": "Book 1", "autor": "Odio Adipisci", "category": "quam", "ISBN": 11558 },
-    { "id": "2", "title": "Book 2", "autor": "Rerum Animi", "category": "quam", "ISBN": 35448 },
-    { "id": "3", "title": "Book 3", "autor": "Quo Vero Reiciendis", "category": "quam", "ISBN": 55214 },
-    { "id": "4", "title": "Book 4", "autor": "Erum Laborum", "category": "quam", "ISBN": 25856 },
-    { "id": "5", "title": "Book 5", "autor": "Alias Odio", "category": "quam", "ISBN": 5228 },
-    { "id": "6", "title": "Book 6", "autor": "Vero Eaque", "category": "quam", "ISBN": 55214 }
+    { "id": "1", "title": "Book 1", "autor": "Odio Adipisci", "category": "Comic Book", "ISBN": 11558 },
+    { "id": "2", "title": "Book 2", "autor": "Rerum Animi", "category": "Action and adventure", "ISBN": 35448 },
+    { "id": "3", "title": "Book 3", "autor": "Quo Vero Reiciendis", "category": "Classic", "ISBN": 55214 },
+    { "id": "4", "title": "Book 4", "autor": "Erum Laborum", "category": "Horror", "ISBN": 25856 },
+    { "id": "5", "title": "Book 5", "autor": "Alias Odio", "category": "Poetry", "ISBN": 5228 },
+    { "id": "6", "title": "Book 6", "autor": "Vero Eaque", "category": "Historical fiction", "ISBN": 55214 }
   ]
 }
