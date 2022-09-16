@@ -1,14 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "books": [
+    { "id": 1, "title": "Book 1", "autor": "Odio Adipisci", "category": "quam", "ISBN": "11558" },
+    { "id": 2, "title": "Book 2", "autor": "Rerum Animi", "category": "quam", "ISBN": "35448"  },
+    { "id": 3, "title": "Book 3", "autor": "Quo Vero Reiciendis", "category": "quam", "ISBN": "55214" },
+    { "id": 3, "title": "Book 3", "autor": "Erum Laborum", "category": "quam", "ISBN": "25856" },
+    { "id": 3, "title": "Book 3", "autor": "Alias Odio", "category": "quam", "ISBN": "5228" },
+    { "id": 3, "title": "Book 3", "autor": "Vero Eaque", "category": "quam", "ISBN": "55214" }
+  ]
 }
